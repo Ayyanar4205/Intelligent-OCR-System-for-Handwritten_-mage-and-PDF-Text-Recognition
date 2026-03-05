@@ -1,0 +1,5 @@
+{
+  "name": "Handwritten OCR Pro",
+  "description": "Advanced handwritten character recognition and document OCR system using Gemini AI. Supports image and PDF extraction with canvas drawing.",
+  "requestFramePermissions": []
+}
